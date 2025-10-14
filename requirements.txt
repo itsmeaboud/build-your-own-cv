@@ -1,0 +1,12 @@
+# Core dependencies
+numpy
+opencv-python
+matplotlib
+scikit-learn
+
+# For Jupyter notebook
+jupyter
+
+# For deep learning (optional, used in bonus section)
+torch
+torchvision
