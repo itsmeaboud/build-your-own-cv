@@ -1,5 +1,5 @@
 # build-your-own-cv
-🕵️‍♂️ For curious minds who want to see what really happens under the hood
+For curious minds who want to see what really happens under the hood
 
 Ever looked at OpenCV and thought
 "How can all this complicated stuff work in just a few lines?" 😲
